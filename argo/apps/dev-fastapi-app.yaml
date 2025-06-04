@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/yourusername/redis-k8s-lab.git
+    repoURL: https://github.com/sadhviram03/Redis-k8s-lab.git
     targetRevision: Head
     path: fastapi-redis
     helm:
